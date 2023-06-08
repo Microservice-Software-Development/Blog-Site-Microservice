@@ -4,4 +4,5 @@ Frameworks = REACT + DJANGO
 
 !enjoy
 
-The infrastructure for this project will be built as well
+This is the staging branch
+
